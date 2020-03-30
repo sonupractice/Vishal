@@ -1,6 +1,6 @@
 function verifyName(name) {
     name = name.toLowerCase();
-    if(name === "priyanka" || name === "priya") {
+    if(name === "soniya" || name === "sonu") {
         return true;
     } else {
         return false;
